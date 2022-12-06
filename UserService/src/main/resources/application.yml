@@ -1,0 +1,8 @@
+spring:
+ data:
+   mongodb:
+     database: UserServiceDB
+     port: 27017
+     host: localhost
+server:
+ port: 8080
